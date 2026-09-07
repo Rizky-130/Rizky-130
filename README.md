@@ -1,52 +1,174 @@
+# 🎮 RAY ALFARIZ
 
-# 🎮 Welcome to My Save Room
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=GAME%20PROGRAMMER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="./assets/plane-shooter.gif" width="700" alt="Pixel plane shooter animation">
+</p>
+
+<p align="center">
+  <b>⚡ BUILD • PLAY • DEBUG • REPEAT ⚡</b>
+</p>
+
+---
+
+## 👾 PLAYER PROFILE
 
 ```text
-> Player 1 has entered the chat...
-> Loading profile data... 100%
+╔══════════════════════════════════════════════════╗
+║                 PLAYER PROFILE                   ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  NAME       > Ray Alfariz                        ║
+║  CLASS      > Game Programmer                    ║
+║  ENGINE     > Unity                              ║
+║  LANGUAGE   > C#                                 ║
+║  SPECIALTY  > Gameplay & Game Systems            ║
+║                                                  ║
+║  STATUS     > ONLINE                             ║
+║  CURRENTLY  > BUILDING NEW WORLDS...             ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-Hi there! I'm a **Game Programmer** who loves bridging the gap between solid code and compelling gameplay. I specialize in bringing digital worlds to life, focusing on everything from core mechanics to the finer details of character storytelling.
+I'm a **Game Programmer** focused on turning ideas into interactive experiences.
 
-### 📜 Main Quest (About Me)
-* 🗡️ **Engine & Core:** Crafting gameplay experiences primarily using **Unity** and **C#**.
-* 🎥 **Game Feel:** Obsessed with getting the perfect game feel—whether it's writing custom camera follow scripts, tweaking physics to remove jitter, or mastering **Cinemachine** damping.
-* 📖 **Lore & Design:** I have a deep appreciation for character design and storytelling. I love weaving rich cultural aesthetics, especially **historical Nusantara themes**, into game concepts and character backgrounds.
-* 🧶 **AFK (Away From Keyboard):** When I'm not debugging or formatting text-to-diagram game layouts, you can probably find me doing manual crafting like knitting!
+I enjoy working with **Unity and C#**, creating gameplay mechanics, game systems, player interactions, and the small details that make a game feel alive.
+
+> 🎯 *My goal is simple: make games that are fun to play and code that's satisfying to build.*
 
 ---
 
-### 🎒 Inventory (Tech Stack & Skills)
+## 🕹️ SKILL TREE
 
-**Languages & Engines:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+```text
+GAME PROGRAMMING
 
-**Game Dev Skills:**  
-`Gameplay Programming` • `Cinemachine & Camera Scripting` • `Physics Tuning` • `Character Concept Design` • `Storytelling`
+├── 🎮 Gameplay Programming     █████████░  90%
+├── ⚙️ Game Systems              ████████░░  80%
+├── 🧍 Player Controllers         ████████░░  80%
+├── 🤖 AI & Game Logic            ███████░░░  70%
+├── 🎥 Camera Systems             ███████░░░  70%
+├── 🔊 Audio & Feedback            ██████░░░░  60%
+└── ✨ Graphics / VFX              ██████░░░░  60%
+```
 
-**Design & Utility:**  
-`Graphic Layouts` • `Text-to-Diagram Tooling` 
+### ⚔️ Weapons of Choice
 
----
-
-### 🗺️ Current Objectives
-
-- 🌱 **Exploring:** Advanced physics interactions and seamless camera transitions.
-- 🤝 **Open to:** Collaborations on narrative-driven games or culturally rich action-adventure titles.
-- 📫 **How to reach me:** [Insert your email or LinkedIn link here]
+`C#` `Unity` `Git` `GitHub` `Visual Studio`
 
 ---
 
-### 📊 Player Stats
+## 🚀 CURRENT QUEST
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+```text
+╭──────────────────────────────────────────────────╮
+│                                                  │
+│   QUEST: BUILD SOMETHING WORTH PLAYING           │
+│                                                  │
+│   [██████████████████░░] 90%                    │
+│                                                  │
+│   ✓ Gameplay systems                             │
+│   ✓ Player interaction                           │
+│   ✓ Game mechanics                               │
+│   → Polishing & optimization                     │
+│   → More experiments                             │
+│                                                  │
+╰──────────────────────────────────────────────────╯
+```
 
-<br>
+---
 
-<div align="center">
-  <i>"Code is just the magic spell that makes the game happen."</i> ✨
-</div>
+## 🎮 PROJECTS
+
+### 🛩️ [PROJECT NAME]
+
+> A [short description of your game].
+
+**Role:** Game Programmer
+**Engine:** Unity · C#
+
+`Gameplay` `Systems` `Unity` `C#`
+
+---
+
+### 👾 [PROJECT NAME]
+
+> A [short description of your game].
+
+**Role:** Game Programmer
+**Engine:** Unity · C#
+
+`AI` `Gameplay` `Game Systems`
+
+---
+
+## 💾 GITHUB LOADOUT
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160">
+</p>
+
+---
+
+## 🧠 DEVELOPER PHILOSOPHY
+
+```text
+       ┌─────────────────────────────┐
+       │                             │
+       │       CODE IS THE           │
+       │       GAMEPLAY.             │
+       │                             │
+       │       POLISH IS THE         │
+       │       EXPERIENCE.           │
+       │                             │
+       └─────────────────────────────┘
+```
+
+I believe great games come from combining **good systems, responsive gameplay, and attention to detail**.
+
+Every mechanic should have a purpose.
+
+Every interaction should feel good.
+
+And every bug...
+
+```text
+> NEW ENEMY DETECTED
+> BUG FOUND
+> TARGET LOCKED
+> 🔫 FIRE!
+```
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile.
+
+**Insert Coin →**
+
+`[ PLAY ]   [ PROJECTS ]   [ CONTACT ]`
+
+🎮
+
+</p>
