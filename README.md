@@ -1,4 +1,4 @@
-# 🎮 RAY ALFARIZ
+# 🎮 RIZKY
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=GAME%20PROGRAMMER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
@@ -21,7 +21,7 @@
 ║                 PLAYER PROFILE                   ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║  NAME       > Ray Alfariz                        ║
+║  NAME       > Rizky                              ║
 ║  CLASS      > Game Programmer                    ║
 ║  ENGINE     > Unity                              ║
 ║  LANGUAGE   > C#                                 ║
